@@ -1,3 +1,5 @@
+[![MasterHead](https://i.pinimg.com/originals/ec/c3/88/ecc3882e29654a291f8824494979145b.gif)
+<h1 align="center">Hello I'm Aditya Mani Tripathi</h1>
 <h3 align="center">A passionate coder from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
