@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genuinecode1&label=Profile%20views&color=0e75b6&style=flat" alt="genuinecode1" /> </p>
 
-- 🔭 I’m currently working on **different personal pprojects and learning new stuff.**
+- 🔭 I’m currently working on **different personal projects and learning new stuff.**
 
 - 🌱 I’m currently learning **Python, React and related technologies.**
 
